@@ -4,4 +4,5 @@ Innovative approach to learn GitHub,
 Get your expertise in GitHub
 <br>
 Final Project: Meeting is documented, participants are recorded, everyone has participated, Release goals are specified and there are sufficient references to user stories to be completed during the release
+<br>
 2nd Change to my Project
